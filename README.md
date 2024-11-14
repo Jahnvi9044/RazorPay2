@@ -5,6 +5,6 @@
  https://razor-pay2-g7lsade42-jahnvi-chaurasias-projects.vercel.app/
 
 
-## how to run it after clonoing the repo :
-  > npm i
-  > npm start 
+## How to run it after cloning the repo :
+ * npm i
+ * npm start
