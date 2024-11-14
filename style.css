@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mm{
+    margin-left: 25px;
+}
+/** @type {import('tailwindcss').Config} */
