@@ -4,6 +4,9 @@
  ## Click the below Link to view the project
  https://razor-pay2.vercel.app/
 
+ ## Clone the Repository
+ git clone URL
+
 
 ## How to run it after cloning the repo :
  * npm i
